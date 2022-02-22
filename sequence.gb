@@ -1,0 +1,513 @@
+LOCUS       MH011443                 123 bp    DNA     linear   PRI 09-OCT-2018
+DEFINITION  Homo sapiens TP53 (TP53) gene, exon 5 and partial cds.
+ACCESSION   MH011443
+VERSION     MH011443.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 123)
+  AUTHORS   Elfaki,R.E.
+  TITLE     Molecular and In Silico Analysis of Novel Single Nucleotide
+            Polymorphism Met160Val Targeting Human TP53 Gene in Sudanese
+            Esophageal Cancer Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 123)
+  AUTHORS   Elfaki,R.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-FEB-2018) Histopathology and Cytology, Sudan
+            University For Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>123
+                     /gene="TP53"
+     mRNA            <1..>123
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>123
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AYF55702.1"
+                     /translation="WVDSTPPPGTRVRAVAIYKQSQHMTEVVRRCPHHERCSDSD"
+     exon            <1..>123
+                     /gene="TP53"
+                     /number=5
+     variation       1..123
+                     /gene="TP53"
+                     /note="results in methionine to valine substitution"
+                     /replace="a"
+ORIGIN      
+        1 tgggttgatt ccacaccccc gcccggcacc cgcgtccgcg ccgtggccat ctacaagcag
+       61 tcacagcaca tgacggaggt tgtgaggcgc tgcccccacc atgagcgctg ctcagatagc
+      121 gat
+//
+
+LOCUS       MH366483                  57 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 88F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366483
+VERSION     MH366483.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 57)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 57)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="88F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>57
+                     /gene="TP53"
+     mRNA            <1..>57
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>57
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92429.1"
+                     /translation="NLRKKGEPHHELPPGSTKR"
+     exon            <1..>57
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 aatctccgca agaaagggga gcctcaccac gagctgcccc cagggagcac taagcga
+//
+
+LOCUS       MH366482                  57 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 6F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366482
+VERSION     MH366482.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 57)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 57)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="6F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>57
+                     /gene="TP53"
+     mRNA            <1..>57
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>57
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92428.1"
+                     /translation="NLRKKGEPHHELPPGSTKR"
+     exon            <1..>57
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 aatctccgca agaaagggga gcctcaccac gagctgcccc cagggagcac taagcga
+//
+
+LOCUS       MH366481                  63 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 8F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366481
+VERSION     MH366481.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 63)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 63)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..63
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="8F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>63
+                     /gene="TP53"
+     mRNA            <1..>63
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>63
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92427.1"
+                     /translation="EENLRKKGEPHHELPPGSTKR"
+     exon            <1..>63
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 gaagagaatc tccgcaagaa aggggagcct caccacgagc tgcccccagg gagcactaag
+       61 cga
+//
+
+LOCUS       MH366480                  66 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 16F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366480
+VERSION     MH366480.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 66)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 66)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..66
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="16F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>66
+                     /gene="TP53"
+     mRNA            <1..>66
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>66
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92426.1"
+                     /translation="EEENLRKKGEPHHELPPGSTKR"
+     exon            <1..>66
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 gaggaagaga atctccgcaa gaaaggggag cctcaccacg agctgccccc agggagcact
+       61 aagcga
+//
+
+LOCUS       MH366479                  84 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 26F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366479
+VERSION     MH366479.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 84)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 84)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="26F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>84
+                     /gene="TP53"
+     mRNA            <1..>84
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>84
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92425.1"
+                     /translation="GRDRRTEEENLRKKGEPHHELPPGSTKR"
+     exon            <1..>84
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 gggagagacc ggcgcacaga ggaagagaat ctccgcaaga aaggggagcc tcaccacgag
+       61 ctgcccccag ggagcactaa gcga
+//
+
+LOCUS       MH366478                  66 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 34F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366478
+VERSION     MH366478.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 66)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 66)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..66
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="34F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>66
+                     /gene="TP53"
+     mRNA            <1..>66
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>66
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92424.1"
+                     /translation="EEENLRKKGEPHHELPPGSTKR"
+     exon            <1..>66
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 gaggaagaga atctccgcaa gaaaggggag cctcaccacg agctgccccc agggagcact
+       61 aagcga
+//
+
+LOCUS       MH366477                  66 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 23F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366477
+VERSION     MH366477.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 66)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 66)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..66
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="23F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>66
+                     /gene="TP53"
+     mRNA            <1..>66
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>66
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92423.1"
+                     /translation="EEENLRKKGEPHHELPPGSTKR"
+     exon            <1..>66
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 gaggaagaga atctccgcaa gaaaggggag cctcaccacg agctgccccc agggagcact
+       61 aagcga
+//
+
+LOCUS       MH366476                  72 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 19F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366476
+VERSION     MH366476.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 72)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 72)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..72
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="19F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>72
+                     /gene="TP53"
+     mRNA            <1..>72
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>72
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92422.1"
+                     /translation="RTEEENLRKKGEPHHELPPGSTKR"
+     exon            <1..>72
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 cgcacagagg aagagaatct ccgcaagaaa ggggagcctc accacgagct gcccccaggg
+       61 agcactaagc ga
+//
+
+LOCUS       MH366475                  72 bp    DNA     linear   PRI 11-SEP-2018
+DEFINITION  Homo sapiens isolate 117F TP53 (TP53) gene, exon 8 and partial cds.
+ACCESSION   MH366475
+VERSION     MH366475.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 72)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Molecular and In-Silico Analysis of Single Nucleotide Polymorphism
+            Targeting Human TP53 Gene Exons 5-8 in Sudanese Esophageal Cancer
+            Patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 72)
+  AUTHORS   Elfaki,R.M., Abdulaziz,M.S., Eltayb,H.N., Munsoor,M.M. and
+            Gameel,A.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2018) Histopathology and Cytology, Sudan
+            University of Science and Technology, Algaba Street, Khartoum,
+            Khartoum 11111, Sudan
+FEATURES             Location/Qualifiers
+     source          1..72
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="117F"
+                     /isolation_source="esophageal tissue"
+                     /db_xref="taxon:9606"
+                     /country="Sudan"
+     gene            <1..>72
+                     /gene="TP53"
+     mRNA            <1..>72
+                     /gene="TP53"
+                     /product="TP53"
+     CDS             <1..>72
+                     /gene="TP53"
+                     /codon_start=1
+                     /product="TP53"
+                     /protein_id="AXU92421.1"
+                     /translation="RTEEENLRKKGEPHHELPPGSTKR"
+     exon            <1..>72
+                     /gene="TP53"
+                     /number=8
+ORIGIN      
+        1 cgcacagagg aagagaatct ccgcaagaaa ggggagcctc accacgagct gcccccaggg
+       61 agcactaagc ga
+//
+
