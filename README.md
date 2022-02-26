@@ -10,3 +10,12 @@
 - Edición de sistema operativo: Windows 10 Home
 ## Versión de Python/Anaconda
 - Python 3.9/64-Bit
+## Data utilizada 
+- Biopython: se utilizó para obtener los datos de Pudmed y para realizar el árbol filogenético.
+- Matplotlib: se utilizó para realizar los gráficos.
+- Pandas: se utilizó para tratar los datos de Pudmed.
+- Numpy: se utilizó para realizar operaciones matemáticas para la distribución normal.
+- csv: se utilizó para leer el archivo de coordenadas.
+- re: se utilizó para usar expresiones regulares con los datos de Pudmed.
+- os: se utilizó para hacer referencia a la carpeta de clustal.
+- saeborn/scipy/math: se utilizaron para calcular y graficar la distribución normal.
